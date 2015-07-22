@@ -1,4 +1,4 @@
-## API README
+## POTCHAIN.NET API README
 
 PotChain provides a REST API at `http://potchain.net/api`
 
