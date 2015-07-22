@@ -1,6 +1,8 @@
 ## POTCHAIN.NET API README
 
-PotChain provides a REST API at `http://potchain.net/api`
+PotChain provides a REST API at `http://potchain.net/api/`
+
+Example query: http://potchain.net/api/addr/PUx9K8pwTut6brR4xdRHbngivHk5sqTPCb
 
 The end-points are:
 
